@@ -1,0 +1,4 @@
+*.log
+*videos*
+.DS_Store
+*.pyc
