@@ -1,7 +1,7 @@
 # GHOST
 This repository implements the Space-Time Graphs of Convex Sets (ST-GCS) from the following paper:
 
-- Jingtao Tang and Hang Ma. "GHOST: Solving the Traveling Salesman Problem on Graphs of Convex Sets." [[paper]](https://arxiv.org/abs/), [[project]](https://sites.google.com/view/ghost-gcs-tsp)
+- Jingtao Tang and Hang Ma. "GHOST: Solving the Traveling Salesman Problem on Graphs of Convex Sets." [[paper]](https://arxiv.org/abs/2511.06471), [[project]](https://sites.google.com/view/ghost-gcs-tsp)
 
 
 ## Installation
@@ -41,14 +41,14 @@ This repository implements the Space-Time Graphs of Convex Sets (ST-GCS) from th
 
 ## BibTex:
 ```
-@misc{tang2025spacetimegraphsconvexsets,
+@misc{tang2025ghostsolvingtravelingsalesman,
       title={GHOST: Solving the Traveling Salesman Problem on Graphs of Convex Sets}, 
       author={Jingtao Tang and Hang Ma},
       year={2025},
-      eprint={2503.00583},
+      eprint={2511.06471},
       archivePrefix={arXiv},
       primaryClass={cs.AI},
-      url={https://arxiv.org/abs/2503.00583}, 
+      url={https://arxiv.org/abs/2511.06471}, 
 }
 ```
 

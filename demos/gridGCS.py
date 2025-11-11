@@ -59,7 +59,7 @@ def linear_GCS():
     opt, _ = tree.grow(runtime_limit=1e3)
     unfolded_path = opt.best_path
 
-    unfolded_path = [0, 1, 2, 3, 8, 3, 2, 7, 2, 5, 6, 13, 14, 15, 14, 13, 22, 13, 12, 21, 12, 11, 13, 6, 5, 10, 17, 18, 19, 20, 19, 18, 17, 10, 9, 16, 9, 4, 1, 0]
+    # unfolded_path = [0, 1, 2, 3, 8, 3, 2, 7, 2, 5, 6, 13, 14, 15, 14, 13, 22, 13, 12, 21, 12, 11, 13, 6, 5, 10, 17, 18, 19, 20, 19, 18, 17, 10, 9, 16, 9, 4, 1, 0]
 
     # visualize the path
     print(f"unfolded_path={unfolded_path}")
