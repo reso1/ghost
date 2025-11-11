@@ -1,5 +1,5 @@
 # GHOST
-This repository implements the Space-Time Graphs of Convex Sets (ST-GCS) from the following paper:
+This repository implements the GHOST search framework for GCS-TSP from the following paper:
 
 - Jingtao Tang and Hang Ma. "GHOST: Solving the Traveling Salesman Problem on Graphs of Convex Sets." [[paper]](https://arxiv.org/abs/2511.06471), [[project]](https://sites.google.com/view/ghost-gcs-tsp)
 
