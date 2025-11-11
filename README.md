@@ -53,4 +53,4 @@ This repository implements the GHOST search framework for GCS-TSP from the follo
 ```
 
 ## License
-ST-GCS is released under the GPL version 3. See LICENSE.txt for further details.
+GHOST is released under the GPL version 3. See LICENSE.txt for further details.
